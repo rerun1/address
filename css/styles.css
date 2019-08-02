@@ -1,0 +1,65 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+li:hover {
+  cursor: pointer;
+  color: rgba(0,0,0,0.25);
+}
+h4 {
+  margin-bottom:1em;
+}
+h5 {
+  color: rgba(0,0,0,0.35);
+}
+
+.container {
+  margin-top: 5em;
+}
+.icon {
+  width:38px;
+}
+/* unique icon that is too small */
+.addressIcon {
+  width: 40px;
+}
+.iconMedium {
+  width: 42px;
+}
+.iconBig {
+  width: 55px;
+}
+.iconSmall {
+  width:22px;
+}
+.iconSmallHome {
+  width: 24px;
+}
+.iconFill {
+  fill: #007bff;
+  /* bootstrap blue */
+}
+.iconFillKnockout {
+  fill: #fff;
+}
+.iconBigFill {
+  fill: #dc3545;
+  /* bootstrap red */
+}
+.iconFillShade {
+  fill: rgba(0, 0, 0, 0.5);
+}
+
+.contactTopMargin {
+  margin-top:.5em;
+}
+.contactBottomMargin {
+  margin-bottom:1.5em;
+}
+.contactPaddingLeft {
+  padding-left:27px;
+}
+.hideContactInfo {
+  display: none;
+}
