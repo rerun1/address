@@ -9,15 +9,15 @@ Website that displays an address book and allows a user to add new contacts by f
 <br>
 
 ## Objectives
-- [ ] Complete above Description
-- [ ] Practice styling with imagery and fonts
+- [x] Complete above Description
+- [x] Practice styling with imagery and fonts
 
 <br>
 
 ## Current Screenshot for Reference
 <br>
 
-![alt text](https://raw.githubusercontent.com/rerun1/marketplace/master/img/screenShot7-31-19.png)
+![alt text](https://raw.githubusercontent.com/rerun1/address/master/img/screenShot8-2-19.png)
 <br>
 <br>
 
